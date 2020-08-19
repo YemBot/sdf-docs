@@ -10,7 +10,7 @@ Science at SLAC is often powered by intensive numerical analysis of large datase
 
 The SDF is comprised of many high powered compute servers interconnected with high speed networking fabrics. This in turn is connected to high performance storage. This, as well as the ecosystem that utilises all this power is what we call the SDF. 
 
-SDF is owned and operated by SLAC's OCIO in partnership and in support of the SLAC research community.
+SDF is owned and operated by SLAC's Computing Division in partnership and in support of the SLAC research community.
 
 ## Why use SDF?
 
